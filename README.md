@@ -1,4 +1,4 @@
-# Edunet_IntershipProject
+# Edunet_InternshipProject
 
 # EV Charging Demand Prediction using LSTM
 
